@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<svg height="320" width="640" >
+ <g style="fill-opacity:1.0; stroke:black;
+  stroke-width:1;">
+  <rect x="0" y="0" height="320"
+    width="640" style="fill:#1e1e1e;" />
+  <circle cx="125" cy="179" r="3"
+    style="fill:#33ff5e;"  />
+  <path stroke="#f9f9f9" stroke-width="1" fill="none" d="M 169.86580929,66.0359367767 Q 125.105769295,179.114260865 81.1917159321,289.677549405" />  <circle cx="201" cy="111" r="3"
+    style="fill:#33ff5e;"  />
+  <path stroke="#f9f9f9" stroke-width="1" fill="none" d="M 31.11267863,44.9271391684 Q 201.195676619,111.200121146 373.889579391,181.425506901" />  <circle cx="54" cy="168" r="3"
+    style="fill:#33ff5e;"  />
+  <path stroke="#f9f9f9" stroke-width="1" fill="none" d="M 81.1917159321,289.677549405 Q 54.9963760477,168.004756805 31.11267863,44.9271391684" />  <circle cx="375" cy="158" r="3"
+    style="fill:#33ff5e;"  />
+  <path stroke="#f9f9f9" stroke-width="1" fill="none" d="M 446.60985352,105.88004036 Q 375.447690118,158.176334754 306.685851714,214.22281952" />  <circle cx="410" cy="142" r="3"
+    style="fill:#33ff5e;"  />
+  <path stroke="#f9f9f9" stroke-width="1" fill="none" d="M 373.889579391,181.425506901 Q 410.588904439,142.055809326 446.60985352,105.88004036" />  <circle cx="403" cy="95" r="3"
+    style="fill:#33ff5e;"  />
+  <path stroke="#f9f9f9" stroke-width="1" fill="none" d="M 621.005095521,127.06551405 Q 403.540439314,95.0545620314 169.86580929,66.0359367767" />  <circle cx="473" cy="170" r="3"
+    style="fill:#33ff5e;"  />
+  <path stroke="#f9f9f9" stroke-width="1" fill="none" d="M 306.685851714,214.22281952 Q 473.579939751,170.358632914 621.005095521,127.06551405" />  <circle cx="169" cy="66" r="16"
+    style="fill:#f9f9f9;"  />
+<text fill="#1e1e1e" font-family="sans-serif" font-size="10" x="169.86580929" y="69.0359367767" style="text-anchor: middle; stroke-width:0;">1</text>  <circle cx="31" cy="44" r="16"
+    style="fill:#f9f9f9;"  />
+<text fill="#1e1e1e" font-family="sans-serif" font-size="10" x="31.11267863" y="47.9271391684" style="text-anchor: middle; stroke-width:0;">3</text>  <circle cx="81" cy="289" r="16"
+    style="fill:#f9f9f9;"  />
+<text fill="#1e1e1e" font-family="sans-serif" font-size="10" x="81.1917159321" y="292.677549405" style="text-anchor: middle; stroke-width:0;">2</text>  <circle cx="446" cy="105" r="16"
+    style="fill:#f9f9f9;"  />
+<text fill="#1e1e1e" font-family="sans-serif" font-size="10" x="446.60985352" y="108.88004036" style="text-anchor: middle; stroke-width:0;">5</text>  <circle cx="373" cy="181" r="16"
+    style="fill:#f9f9f9;"  />
+<text fill="#1e1e1e" font-family="sans-serif" font-size="10" x="373.889579391" y="184.425506901" style="text-anchor: middle; stroke-width:0;">4</text>  <circle cx="621" cy="127" r="16"
+    style="fill:#f9f9f9;"  />
+<text fill="#1e1e1e" font-family="sans-serif" font-size="10" x="621.005095521" y="130.06551405" style="text-anchor: middle; stroke-width:0;">7</text>  <circle cx="306" cy="214" r="16"
+    style="fill:#f9f9f9;"  />
+<text fill="#1e1e1e" font-family="sans-serif" font-size="10" x="306.685851714" y="217.22281952" style="text-anchor: middle; stroke-width:0;">6</text>  <circle cx="290" cy="147" r="3"
+    style="fill:#ff335e;"  />
+ </g>
+</svg>
